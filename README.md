@@ -1,4 +1,4 @@
-![Alt text](Monochrome on Transparent.png "Logo")
+![Logo](MonochromeonTransparent.png "Logo")
 
 I develop web applications for clients and contract based B2B. I am also open for full or part time employment. Please feel free to contact me with any questions or opportunities. I look forward to working with you!
 
