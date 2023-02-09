@@ -1,6 +1,6 @@
 # Flower City Virtual Tours
 
-We are a web development company and this profile is for our clients to see different options to get their website started.
+I develop web applications for clients and contract based B2B. I am also open for full or part time employment. Please feel free to contact me with any questions or opportunities. I look forward to working with you!
 
 <br>
 
