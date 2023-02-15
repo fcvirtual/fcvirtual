@@ -2,7 +2,7 @@
 
 # Austin Margarone
 
-I develop web applications for clients and contract-based B2B. I am also open to full or part-time employment as a Front-End Engineer. Please feel free to contact me with any questions or opportunities. I look forward to working with you!
+I develop web applications for clients and contract-based B2B. I am also open to full or part-time employment opportunities as a Front-End Engineer. Please feel free to contact me with any questions or opportunities. I look forward to working with you!
 
 <br>
 
